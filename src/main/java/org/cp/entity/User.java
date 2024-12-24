@@ -1,4 +1,4 @@
 package org.cp.entity;
 
-public class HotelRoom {
+public class User {
 }
