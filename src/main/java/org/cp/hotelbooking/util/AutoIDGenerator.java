@@ -1,4 +1,4 @@
-package org.cp.util;
+package org.cp.hotelbooking.util;
 
 import java.util.concurrent.atomic.AtomicInteger;
 

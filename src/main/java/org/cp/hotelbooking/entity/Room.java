@@ -1,6 +1,6 @@
-package org.cp.entity;
+package org.cp.hotelbooking.entity;
 
-import org.cp.entity.enums.RoomType;
+import org.cp.hotelbooking.entity.enums.RoomType;
 
 public class Room {
     int roomId;

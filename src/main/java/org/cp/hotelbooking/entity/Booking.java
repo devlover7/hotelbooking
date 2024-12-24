@@ -1,4 +1,4 @@
-package org.cp.entity;
+package org.cp.hotelbooking.entity;
 
 import java.time.LocalDateTime;
 

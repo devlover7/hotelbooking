@@ -1,4 +1,4 @@
-package org.cp;
+package org.cp.hotelbooking;
 
 public class Main {
     public static void main(String[] args) {

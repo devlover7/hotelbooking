@@ -1,4 +1,4 @@
-package org.cp.exception;
+package org.cp.hotelbooking.exception;
 
 public class UserException extends RuntimeException {
     public UserException(String message) {
